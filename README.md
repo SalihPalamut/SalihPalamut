@@ -14,16 +14,16 @@ Etc.
 
 
 # Four Steps In My Life
+![1](Images/cycle.png)
+
 - [Imagine](#imagine)
 - [Desing](#desing)
 - [Produce](#produce)
 - [Test](#test)
 
-![1](Images/cycle.png)
-
 # Imagine
 I always thinking by drawing.
-![2](Images/cycle.png)
+![2](Images/Imagine.png)
 
 # Desing
 My design sequence starts with sometimes finding the box and sometimes drawing the circuits.
