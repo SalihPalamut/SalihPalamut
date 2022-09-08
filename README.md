@@ -6,12 +6,13 @@
 - The tools I learned in this process are:
   - C/C++
   - Linux
-  - solidworks
-  - altium
+  - Solidworks
+  - Altium
   - Keil
   - Docker
 Etc.
 
+[![Salih's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalihPalamut)](https://github.com/SalihPalamut)
 
 # Four Steps In My Life
 ![1](Images/cycle.png)
