@@ -12,9 +12,13 @@
   - Docker
 Etc.
 
-[![Salih's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalihPalamut)](https://github.com/SalihPalamut)
+## Stats
+
+[![Salih's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalihPalamut&count_private=true&show_icons=true)](https://github.com/SalihPalamut)
+[![Salih's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SalihPalamut&count_private=true)](https://github.com/SalihPalamut)
 
 # Four Steps In My Life
+
 ![1](Images/cycle.png)
 
 - [Imagine](#imagine)
